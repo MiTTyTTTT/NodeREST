@@ -1,0 +1,28 @@
+{
+  "name": "noderest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "format": "prettier --write *.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MiTTyTTTT/NodeREST.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MiTTyTTTT/NodeREST/issues"
+  },
+  "homepage": "https://github.com/MiTTyTTTT/NodeREST#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "prettier": "^2.8.3"
+  }
+}
