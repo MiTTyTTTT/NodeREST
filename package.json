@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CheeseZyDev1/NodeREST.git"
+    "url": "git+https://github.com/MiTTyTTTT/NodeREST.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/CheeseZyDev1/NodeREST/issues"
+    "url": "https://github.com/MiTTyTTTT/NodeREST/issues"
   },
-  "homepage": "https://github.com/CheeseZyDev1/NodeREST#readme",
+  "homepage": "https://github.com/MiTTyTTTT/NodeREST#readme",
   "devDependencies": {
     "prettier": "^3.1.1"
   },
@@ -29,4 +29,4 @@
     "sqlite3": "^5.1.7"
   }
 }
-//sdadwadadadaddwdasd
+
