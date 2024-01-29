@@ -4,27 +4,29 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node src/CRUBbookNoDB.js",
+    "start": "node index.js",
     "format": "prettier --write *.js",
-    "dev": "nodemon src/index.js"
+    "dev": "nodemon index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MiTTyTTTT/NodeREST.git"
+    "url": "git+https://github.com/CheeseZyDev1/NodeREST.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MiTTyTTTT/NodeREST/issues"
+    "url": "https://github.com/CheeseZyDev1/NodeREST/issues"
   },
-  "homepage": "https://github.com/MiTTyTTTT/NodeREST#readme",
-  "dependencies": {
-    "dotenv": "^16.0.3",
-    "express": "^4.18.2"
-  },
+  "homepage": "https://github.com/CheeseZyDev1/NodeREST#readme",
   "devDependencies": {
+    "prettier": "^3.1.1"
+  },
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
     "nodemon": "^2.0.20",
-    "prettier": "^2.8.3"
+    "sqlite3": "^5.1.7"
   }
 }
+//sdadwadadadaddwdasd
